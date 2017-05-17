@@ -1,0 +1,10 @@
+Package: controldev
+Type: Package
+Title: Development version of Control Toolbox
+Version: 0.1.0
+Author: Ben Ubah
+Maintainer: Ben Ubah <ben@rpowerlabs.org>
+Description: For COntrol Toolbox Files in Work
+License: GPL-2?
+LazyData: TRUE
+RoxygenNote: 6.0.1
