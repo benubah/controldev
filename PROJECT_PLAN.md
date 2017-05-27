@@ -7,7 +7,7 @@ Review Codes includes incorporating feedback from mentors, reviewing style, outp
 tf, ss, and zpk functions are for the creation of transfer function data, state-space data and zero-pole-gain data structures (as stated in the framework proposal) respectively.
 tfdata, ssdata and zpkdata functions are for retrieving transfer function data, state-space data and zero-pole-gain data respectively from 'sys' objects of tf, ss or zpk class
 
-### CODING STAGE 1:  May 30 – June 30
+### CODING PHASE 1:  May 30 – June 30
 
 | Date   |  Task/Function     | Documentation | Finished | Tests |
 |--------|--------------------|---------------|----------|-------|
@@ -34,3 +34,6 @@ tfdata, ssdata and zpkdata functions are for retrieving transfer function data, 
 | June 21 | ltitr()           |               |          |       |
 | June 22 | lsim()            |               |          |       |
 | June 23 | Review code        |               |          |       |
+| Week 5 |                    |               |          |       |
+| June 26-30 | Project Evaluation        |               |          |       |
+
