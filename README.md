@@ -15,7 +15,7 @@ tfdata, ssdata and zpkdata functions are for retrieving transfer function data, 
 | [May 30](https://github.com/benubah/controldev/blob/master/project_reports/week1.md) | tfchk(), nargchk() |               |          |       |
 | [May 31](https://github.com/benubah/controldev/blob/master/project_reports/week1.md) | abcdchk(), tf()    |               |          |       |
 | [June 1](https://github.com/benubah/controldev/blob/master/project_reports/week1.md) | ss() and zpk()     |               |          |       |
-| [June 2](https://github.com/benubah/controldev/blob/master/project_reports/week1.md) | Review code        |               |          |       |
+| [June 2](project_reports/week1.md#day-1---may-30) | Review code        |               |          |       |
 | Week 2 |                    |               |          |       |
 | June 5 | tf2ss()            |               |          |       |
 | June 6 | ss2tf()            |               |          |       |
