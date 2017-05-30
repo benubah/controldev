@@ -3,8 +3,10 @@
 Accomplishments:
 
 Converted `tfchk()`, `nargchk()` and `abcdchk()` from Rlabplus. They are utility functions and are called by other functions.
-Did `R CMD check` and `build`
-Committed resulting code to Github
+Did `R CMD check` and `build`.
+
+Committed resulting code to Github.
+
 Executed: 
 > `devtools::install_github("benubah/control")`
 
