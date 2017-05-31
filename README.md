@@ -12,9 +12,9 @@ tfdata, ssdata and zpkdata functions are for retrieving transfer function data, 
 | Date   |  Task/Function     | Documentation | Finished | Tests |
 |--------|--------------------|---------------|----------|-------|
 | [Week 1](project_reports/week1.md) |                    |               |          |       |
-| [May 30](project_reports/week1.md#day-1---may-30) | tfchk(), nargchk() |               |          |       |
-| [May 31](project_reports/week1.md#day-2---may-31) | abcdchk(), tf()    |               |          |       |
-| [June 1](project_reports/week1.md#day-3---june-1) | ss() and zpk()     |               |          |       |
+| [May 30](project_reports/week1.md#day-1---may-30) | tfchk(), nargchk() | Yes               | Yes         |       |
+| [May 31](project_reports/week1.md#day-2---may-31) | abcdchk(), tf()    | Yes              |  Yes        |       |
+| [June 1](project_reports/week1.md#day-3---june-1) | ss() and zpk()     | Yes              |  Yes        |       |
 | [June 2](project_reports/week1.md#day-4---june-2) | Review code        |               |          |       |
 | [Week 2](project_reports/week2.md) |                    |               |          |       |
 | [June 5](project_reports/week2.md#day-1---june-5) | tf2ss()            |               |          |       |
