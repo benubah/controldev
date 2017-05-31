@@ -102,11 +102,11 @@ Achieved Sub-total:
 | Aug. 17 | lqr()          |               |          |       |
 | Aug. 18 | Review code        |               |          |       |
 | [Week 13](project_reports/week13.md) |                    |               |          |       |
-| Aug. 14 | lyap2()           |               |          |       |
-| Aug. 15 | crtb(), obsv()           |               |          |       |
-| Aug. 16 | esort(), damp()          |               |          |       |
-| Aug. 17 | c2dt(), pid()          |               |          |       |
-| Aug. 18 | Review code        |               |          |       |
+| Aug. 21 | lyap2()           |               |          |       |
+| Aug. 22 | crtb(), obsv()           |               |          |       |
+| Aug. 23 | esort(), damp()          |               |          |       |
+| Aug. 24 | c2dt(), pid()          |               |          |       |
+| Aug. 25 | Review code        |               |          |       |
 
 August 28 - Sept. 5: Final Evaluations and CRAN Submission 
 
