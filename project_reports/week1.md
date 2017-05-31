@@ -60,7 +60,8 @@ Produces:
 
 ## Day 3 - June 1
 
-Description for achievements here
+Coding done for `ss()` and `zpk` - including documentations
+`R CMD check` and `build`were successful.
 
 
 ## Day 4 - June 2
