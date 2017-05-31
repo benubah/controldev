@@ -37,17 +37,21 @@ Created documentation with examples for `tf()` and `ss()`.
 Committed resulting code to control repository. 
 
 Installation is fine.
+
 `devtools::install_github("benubah/control")`
 
 The following statement on the command line
+
 `> tf(1, c(1,2,1))`
 
 Produces:
 
-Transfer Function: Continuous time model 
+`Transfer Function: Continuous time model 
 
-`            1 
-  - - - - - - - - - -
+            1 
+            
+  ====================
+  
      s^2 + 2 s + 1 
 `
 
