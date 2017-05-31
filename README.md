@@ -37,3 +37,55 @@ tfdata, ssdata and zpkdata functions are for retrieving transfer function data, 
 | [Week 5](project_reports/week5.md) |                    |               |          |       |
 | June 26-30 | Project Evaluation        |               |          |       |
 
+Expected Sub-total: 18 functions
+Achieved Sub-total:
+
+### CODING PHASE 2: July 3 – July 28
+
+| Date   |  Task/Function     | Documentation | Finished | Tests |
+|--------|--------------------|---------------|----------|-------|
+| [Week 6](project_reports/week6.md) |                    |               |          |       |
+| July 3 | TF()           |               |          |       |
+| July 4 | TF()           |               |          |       |
+| July 5 | givens()          |               |          |       |
+| July 6 | schord()          |               |          |       |
+| July 7 | Review code        |               |          |       |
+| [Week 7](project_reports/week7.md) |                    |               |          |       |
+| July 10 | care()           |               |          |       |
+| July 11 | append()           |               |          |       |
+| July 12 | cloop()          |               |          |       |
+| July 13 | ssselect()          |               |          |       |
+| July 14 | Review code        |               |          |       |
+| [Week 8](project_reports/week8.md) |                    |               |          |       |
+| July 17 | ssdelete()           |               |          |       |
+| July 18 | series()           |               |          |       |
+| July 19 | parallel()          |               |          |       |
+| July 20 | feedback()          |               |          |       |
+| July 21 | Review code        |               |          |       |
+| [Week 9](project_reports/week9.md) |                    |               |          |       |
+| July 24 | Evaluations/CRAN           |               |          |       |
+| July 25 | polyvalm()           |               |          |       |
+| July 26 | poles()          |               |          |       |
+| July 27 | acker()          |               |          |       |
+| July 28 | Review code        |               |          |       |
+
+
+Expected Sub-total: 21 functions
+Achieved Sub-total:
+
+### CODING PHASE 3: July 31 – August 28
+
+| Date   |  Task/Function     | Documentation | Finished | Tests |
+|--------|--------------------|---------------|----------|-------|
+| [Week 10](project_reports/week10.md) |                    |               |          |       |
+| July 31 | gensig()           |               |          |       |
+| Aug. 1 | lsimplot()           |               |          |       |
+| Aug. 2 | step()          |               |          |       |
+| Aug. 3 | stepplot()          |               |          |       |
+| Aug. 4 | Review code        |               |          |       |
+| [Week 11](project_reports/week11.md) |                    |               |          |       |
+| Aug. 7 | gensig()           |               |          |       |
+| Aug. 8 | lsimplot()           |               |          |       |
+| Aug. 9 | step()          |               |          |       |
+| Aug. 10 | stepplot()          |               |          |       |
+| Aug. 11 | Review code        |               |          |       |
