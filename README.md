@@ -38,7 +38,10 @@ tfdata, ssdata and zpkdata functions are for retrieving transfer function data, 
 | June 26-30 | Project Evaluation        |               |          |       |
 
 Expected Sub-total: 18 functions
+
 Achieved Sub-total:
+
+-------------------------------------------------------------------------------------------------------------------
 
 ### CODING PHASE 2: July 3 – July 28
 
@@ -71,7 +74,10 @@ Achieved Sub-total:
 
 
 Expected Sub-total: 21 functions
+
 Achieved Sub-total:
+
+------------------------------------------------------------------------------------------------------------------
 
 ### CODING PHASE 3: July 31 – August 28
 
@@ -89,3 +95,21 @@ Achieved Sub-total:
 | Aug. 9 | step()          |               |          |       |
 | Aug. 10 | stepplot()          |               |          |       |
 | Aug. 11 | Review code        |               |          |       |
+| [Week 12](project_reports/week12.md) |                    |               |          |       |
+| Aug. 14 | bode()           |               |          |       |
+| Aug. 15 | nyquist()           |               |          |       |
+| Aug. 16 | bodeplot(), nyquistplot()          |               |          |       |
+| Aug. 17 | lqr()          |               |          |       |
+| Aug. 18 | Review code        |               |          |       |
+| [Week 13](project_reports/week13.md) |                    |               |          |       |
+| Aug. 14 | lyap2()           |               |          |       |
+| Aug. 15 | crtb(), obsv()           |               |          |       |
+| Aug. 16 | esort(), damp()          |               |          |       |
+| Aug. 17 | c2dt(), pid()          |               |          |       |
+| Aug. 18 | Review code        |               |          |       |
+
+August 28 - Sept. 5: Final Evaluations and CRAN Submission 
+
+Expected Sub-total: 21 functions
+
+Achieved Sub-total:
