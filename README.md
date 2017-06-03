@@ -9,6 +9,8 @@ tfdata, ssdata and zpkdata functions are for retrieving transfer function data, 
 
 ### CODING PHASE 1:  May 30 – June 30
 
+Functions Available: nargchk, abcdchk, tfchk, tf, ss, zpk, print.tf, print.ss, print.zpk, tf2ss, ss2tf
+
 | Date   |  Task/Function     | Documentation | Finished | Tests |
 |--------|--------------------|---------------|----------|-------|
 | [Week 1](project_reports/week1.md) |                    |               |          |       |
