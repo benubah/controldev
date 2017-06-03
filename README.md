@@ -14,13 +14,13 @@ Functions Available: nargchk, abcdchk, tfchk, tf, ss, zpk, print.tf, print.ss, p
 | Date   |  Task/Function     | Documentation | Finished | Tests |
 |--------|--------------------|---------------|----------|-------|
 | [Week 1](project_reports/week1.md) |                    |               |          |       |
-| [May 30](project_reports/week1.md#day-1---may-30) | tfchk(), nargchk() | Yes               | Yes         |       |
-| [May 31](project_reports/week1.md#day-2---may-31) | abcdchk(), tf()    | Yes              |  Yes        |       |
-| [June 1](project_reports/week1.md#day-3---june-1) | ss() and zpk()     | Yes              |  Yes        |       |
+| [May 30](project_reports/week1.md#day-1---may-30) | [tfchk(), nargchk()](https://github.com/benubah/control/blob/master/R/) | Yes               | Yes         |       |
+| [May 31](project_reports/week1.md#day-2---may-31) | [abcdchk(), tf()](https://github.com/benubah/control/blob/master/R/)    | Yes              |  Yes        |       |
+| [June 1](project_reports/week1.md#day-3---june-1) | [ss() and zpk()](https://github.com/benubah/control/blob/master/R/tf2ss.R)     | Yes              |  Yes        |       |
 | [June 2](project_reports/week1.md#day-4---june-2) | Review code        |               |          |       |
 | [Week 2](project_reports/week2.md) |                    |               |          |       |
-| [June 5](project_reports/week2.md#day-1---june-5) | tf2ss()            |               |          |       |
-| [June 6](project_reports/week2.md#day-2---june-6) | ss2tf()            |               |          |       |
+| [June 5](project_reports/week2.md#day-1---june-5) | [tf2ss()](https://github.com/benubah/control/blob/master/R/tf2ss.R)            |               |          |       |
+| [June 6](project_reports/week2.md#day-2---june-6) | [ss2tf()](https://github.com/benubah/control/blob/master/R/ss2tf.R)            |               |          |       |
 | [June 7](project_reports/week2.md#day-3---june-7) | tf2zp()            |               |          |       |
 | [June 8](project_reports/week2.md#day-4---june-8) | zp2tf()            |               |          |       |
 | [June 9](project_reports/week2.md#day-5---june-9) | Review code        |               |          |       |
