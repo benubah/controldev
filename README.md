@@ -19,8 +19,8 @@ Functions Available: nargchk, abcdchk, tfchk, tf, ss, zpk, print.tf, print.ss, p
 | [June 1](project_reports/week1.md#day-3---june-1) | [ss() and zpk()](https://github.com/benubah/control/blob/master/R/tf2ss.R)     | Yes              |  Yes        |       |
 | [June 2](project_reports/week1.md#day-4---june-2) | Review code        |               |          |       |
 | [Week 2](project_reports/week2.md) |                    |               |          |       |
-| [June 5](project_reports/week2.md#day-1---june-5) | [tf2ss()](https://github.com/benubah/control/blob/master/R/tf2ss.R)            |               |          |       |
-| [June 6](project_reports/week2.md#day-2---june-6) | [ss2tf()](https://github.com/benubah/control/blob/master/R/ss2tf.R)            |               |          |       |
+| [June 5](project_reports/week2.md#day-1---june-5) | [tf2ss()](https://github.com/benubah/control/blob/master/R/tf2ss.R)            |  Yes             |   Yes       |       |
+| [June 6](project_reports/week2.md#day-2---june-6) | [ss2tf()](https://github.com/benubah/control/blob/master/R/ss2tf.R)            | Yes              |   Yes       |       |
 | [June 7](project_reports/week2.md#day-3---june-7) | tf2zp()            |               |          |       |
 | [June 8](project_reports/week2.md#day-4---june-8) | zp2tf()            |               |          |       |
 | [June 9](project_reports/week2.md#day-5---june-9) | Review code        |               |          |       |
