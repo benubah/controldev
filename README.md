@@ -17,12 +17,12 @@ Functions Available: nargchk, abcdchk, tfchk, tf, ss, zpk, print.tf, print.ss, p
 | [May 30](project_reports/week1.md#day-1---may-30) | [tfchk(), nargchk()](https://github.com/benubah/control/blob/master/R/) | Yes               | Yes         |       |
 | [May 31](project_reports/week1.md#day-2---may-31) | [abcdchk(), tf()](https://github.com/benubah/control/blob/master/R/)    | Yes              |  Yes        |       |
 | [June 1](project_reports/week1.md#day-3---june-1) | [ss() and zpk()](https://github.com/benubah/control/blob/master/R/tf2ss.R)     | Yes              |  Yes        |       |
-| [June 2](project_reports/week1.md#day-4---june-2) | Review code        |               |          |       |
+| [June 2](project_reports/week1.md#day-4---june-2) | Review code        |  Yes             |     Yes     |       |
 | [Week 2](project_reports/week2.md) |                    |               |          |       |
 | [June 5](project_reports/week2.md#day-1---june-5) | [tf2ss()](https://github.com/benubah/control/blob/master/R/tf2ss.R)            |  Yes             |   Yes       |       |
 | [June 6](project_reports/week2.md#day-2---june-6) | [ss2tf()](https://github.com/benubah/control/blob/master/R/ss2tf.R)            | Yes              |   Yes       |       |
-| [June 7](project_reports/week2.md#day-3---june-7) | tf2zp()            |               |          |       |
-| [June 8](project_reports/week2.md#day-4---june-8) | zp2tf()            |               |          |       |
+| [June 7](project_reports/week2.md#day-3---june-7) | [tf2zp()](https://github.com/benubah/control/blob/master/R/tf2zp.R)            |  Yes             |  Yes        |       |
+| [June 8](project_reports/week2.md#day-4---june-8) | [zp2tf()](https://github.com/benubah/control/blob/master/R/zp2tf.R)            |  Yes             |  Yes        |       |
 | [June 9](project_reports/week2.md#day-5---june-9) | Review code        |               |          |       |
 | [Week 3](project_reports/week3.md) |                    |               |          |       |
 | June 12 | ss2zp()           |               |          |       |
