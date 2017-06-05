@@ -92,10 +92,10 @@ Achieved Sub-total:
 | Aug. 3 | stepplot()          |               |          |       |
 | Aug. 4 | Review code        |               |          |       |
 | [Week 11](project_reports/week11.md) |                    |               |          |       |
-| Aug. 7 | gensig()           |               |          |       |
-| Aug. 8 | lsimplot()           |               |          |       |
-| Aug. 9 | step()          |               |          |       |
-| Aug. 10 | stepplot()          |               |          |       |
+| Aug. 7 | initial()           |               |          |       |
+| Aug. 8 | impulse()           |               |          |       |
+| Aug. 9 | initialplot(), impulseplot()          |               |          |       |
+| Aug. 10 | freqresp()          |               |          |       |
 | Aug. 11 | Review code        |               |          |       |
 | [Week 12](project_reports/week12.md) |                    |               |          |       |
 | Aug. 14 | bode()           |               |          |       |
