@@ -18,13 +18,14 @@ Coded `zp2ss()`
 
 Achievements:
 
-
+Coded `tfdata()`
 
 
 ## Day 4 - June 15
 
 Achievements:
 
+Coded `ssdata()`
 
 
 ## Day 5 - June 16
