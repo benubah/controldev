@@ -6,6 +6,7 @@ Coded `ss2zp()`
 
 Improved `zpk()`, `print.zpk()`, `tf2zp()` and `zp2tf()` to handle single-input multiple-output (SIMO) systems and to handle Infs and NULL values present in numerator zeros.
 
+`R CMD check` ,  `build` and `devtools::install_github("benubah/control")` are fine.
 
 ## Day 2 - June 13
 
