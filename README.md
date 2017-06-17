@@ -25,17 +25,17 @@ Functions Available: nargchk, abcdchk, tfchk, tf, ss, zpk, print.tf, print.ss, p
 | [June 8](project_reports/week2.md#day-4---june-8) | [zp2tf()](https://github.com/benubah/control/blob/master/R/zp2tf.R)            |  Yes             |  Yes        |       |
 | [June 9](project_reports/week2.md#day-5---june-9) | Review code        |               |          |       |
 | [Week 3](project_reports/week3.md) |                    |               |          |       |
-| [June 12](project_reports/week3.md#day-1---june-12) | [ss2zp()](https://github.com/benubah/control/blob/master/R/ss2zp.R)           |               |          |       |
-| [June 13](project_reports/week3.md#day-2---june-13) | [zp2ss()](https://github.com/benubah/control/blob/master/R/zp2ss.R)           |               |          |       |
-| [June 14](project_reports/week3.md#day-3---june-14) | [tfdata()](https://github.com/benubah/control/blob/master/R/tfdata.R)          |               |          |       |
-| [June 15](project_reports/week3.md#day-4---june-15) | [ssdata()](https://github.com/benubah/control/blob/master/R/ssdata.R)          |               |          |       |
+| [June 12](project_reports/week3.md#day-1---june-12) | [ss2zp()](https://github.com/benubah/control/blob/master/R/ss2zp.R)           |     Yes          |   Yes       |       |
+| [June 13](project_reports/week3.md#day-2---june-13) | [zp2ss()](https://github.com/benubah/control/blob/master/R/zp2ss.R)           |     Yes          |   Yes       |       |
+| [June 14](project_reports/week3.md#day-3---june-14) | [tfdata()](https://github.com/benubah/control/blob/master/R/tfdata.R)          |   Yes            |    Yes      |       |
+| [June 15](project_reports/week3.md#day-4---june-15) | [ssdata()](https://github.com/benubah/control/blob/master/R/ssdata.R)          |       Yes        |    Yes      |       |
 | [June 16](project_reports/week3.md#day-5---june-16) | Review code        |               |          |       |
 | [Week 4](project_reports/week4.md) |                    |               |          |       |
-| June 19 | zpkdata()        |               |          |       |
-| June 20 | c2d()             |               |          |       |
-| June 21 | ltitr()           |               |          |       |
-| June 22 | lsim()            |               |          |       |
-| June 23 | Review code        |               |          |       |
+| [June 19](project_reports/week4.md#day-1---june-19) | [zpkdata()](https://github.com/benubah/control/blob/master/R/zpkdata.R)        |               |          |       |
+| [June 20](project_reports/week4.md#day-2---june-20) | c2d()             |               |          |       |
+| [June 21](project_reports/week4.md#day-3---june-21) | ltitr()           |               |          |       |
+| [June 22](project_reports/week4.md#day-4---june-22) | lsim()            |               |          |       |
+| [June 23](project_reports/week4.md#day-5---june-23) | Review code        |               |          |       |
 | [Week 5](project_reports/week5.md) |                    |               |          |       |
 | June 26-30 | Project Evaluation        |               |          |       |
 
