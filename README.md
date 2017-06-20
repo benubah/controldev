@@ -32,8 +32,8 @@ Functions Available: nargchk, abcdchk, tfchk, tf, ss, zpk, print.tf, print.ss, p
 | [June 16](project_reports/week3.md#day-5---june-16) | Review code        |               |          |       |
 | [Week 4](project_reports/week4.md) |                    |               |          |       |
 | [June 19](project_reports/week4.md#day-1---june-19) | [zpkdata()](https://github.com/benubah/control/blob/master/R/zpkdata.R)        |               |          |       |
-| [June 20](project_reports/week4.md#day-2---june-20) | c2d()             |               |          |       |
-| [June 21](project_reports/week4.md#day-3---june-21) | ltitr()           |               |          |       |
+| [June 20](project_reports/week4.md#day-2---june-20) | [c2d()](https://github.com/benubah/control/blob/master/R/c2d.R)             |               |          |       |
+| [June 21](project_reports/week4.md#day-3---june-21) | [ltitr()](https://github.com/benubah/control/blob/master/R/ltitr.R)           |               |          |       |
 | [June 22](project_reports/week4.md#day-4---june-22) | lsim()            |               |          |       |
 | [June 23](project_reports/week4.md#day-5---june-23) | Review code        |               |          |       |
 | [Week 5](project_reports/week5.md) |                    |               |          |       |
