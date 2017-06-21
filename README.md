@@ -9,7 +9,7 @@ tfdata, ssdata and zpkdata functions are for retrieving transfer function data, 
 
 ### CODING PHASE 1:  May 30 – June 30
 
-Functions Available: nargchk, abcdchk, tfchk, tf, ss, zpk, print.tf, print.ss, print.zpk, tf2ss, ss2tf, tf2zp, zp2tf, ss2zp, zp2ss, tfdata, ssdata, zpkdata
+Functions Available: nargchk, abcdchk, tfchk, tf, ss, zpk, print.tf, print.ss, print.zpk, tf2ss, ss2tf, tf2zp, zp2tf, ss2zp, zp2ss, tfdata, ssdata, zpkdata, c2d, ltitr, lsim, gensig
 
 | Date   |  Task/Function     | Documentation | Finished | Tests |
 |--------|--------------------|---------------|----------|-------|
@@ -34,7 +34,7 @@ Functions Available: nargchk, abcdchk, tfchk, tf, ss, zpk, print.tf, print.ss, p
 | [June 19](project_reports/week4.md#day-1---june-19) | [zpkdata()](https://github.com/benubah/control/blob/master/R/zpkdata.R)        |               |          |       |
 | [June 20](project_reports/week4.md#day-2---june-20) | [c2d()](https://github.com/benubah/control/blob/master/R/c2d.R)             |               |          |       |
 | [June 21](project_reports/week4.md#day-3---june-21) | [ltitr()](https://github.com/benubah/control/blob/master/R/ltitr.R)           |               |          |       |
-| [June 22](project_reports/week4.md#day-4---june-22) | lsim()            |               |          |       |
+| [June 22](project_reports/week4.md#day-4---june-22) | [lsim()](https://github.com/benubah/control/blob/master/R/lsim.R)            |               |          |       |
 | [June 23](project_reports/week4.md#day-5---june-23) | Review code        |               |          |       |
 | [Week 5](project_reports/week5.md) |                    |               |          |       |
 | June 26-30 | Project Evaluation        |               |          |       |
@@ -86,7 +86,7 @@ Achieved Sub-total:
 | Date   |  Task/Function     | Documentation | Finished | Tests |
 |--------|--------------------|---------------|----------|-------|
 | [Week 10](project_reports/week10.md) |                    |               |          |       |
-| July 31 | gensig()           |               |          |       |
+| July 31 | [gensig()](https://github.com/benubah/control/blob/master/R/gensig.R)           |               |          |       |
 | Aug. 1 | lsimplot()           |               |          |       |
 | Aug. 2 | step()          |               |          |       |
 | Aug. 3 | stepplot()          |               |          |       |
