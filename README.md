@@ -41,7 +41,7 @@ Functions Available: `nargchk, abcdchk, tfchk, tf, ss, zpk, print.tf, print.ss, 
 
 Expected Sub-total: 18 functions
 
-Achieved Sub-total:
+Achieved Sub-total: 23 functions
 
 -------------------------------------------------------------------------------------------------------------------
 
