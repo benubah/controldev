@@ -35,7 +35,7 @@ Improved argument consistency checks for `ltitr`
 
 Achievements:
 
-
+All documentation for the week's tasks were completed by 26/06/2017
 
 
 
