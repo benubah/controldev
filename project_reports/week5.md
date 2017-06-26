@@ -4,6 +4,11 @@
 
 Achievements:
 
+Improved `ltitr` to accept `x0` as a vector.
+
+Completed documenation for Week 4 tasks.
+
+Started writing blog post to inform the community of the `control` package
 
 
 
