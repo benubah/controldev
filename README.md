@@ -50,8 +50,8 @@ Achieved Sub-total: 23 functions
 | Date   |  Task/Function     | Documentation | Finished | Tests |
 |--------|--------------------|---------------|----------|-------|
 | [Week 6](project_reports/week6.md) |                    |               |          |       |
-| July 3 | TF()           |               |          |       |
-| July 4 | TF()           |               |          |       |
+| [July 3](project_reports/week6.md#day-1---july-3) | [TF()](https://github.com/benubah/control/blob/master/R/TransferFunction.R)           |               |          |       |
+| [July 4]project_reports/week6.md#day-2---july-4) | [TF()](https://github.com/benubah/control/blob/master/R/TransferFunction.R)           |               |          |       |
 | July 5 | givens()          |               |          |       |
 | July 6 | schord()          |               |          |       |
 | July 7 | Review code        |               |          |       |
