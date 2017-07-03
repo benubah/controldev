@@ -9,7 +9,7 @@ tfdata, ssdata and zpkdata functions are for retrieving transfer function data, 
 
 ### CODING PHASE 1:  May 30 – June 30
 
-Functions Available: `nargchk, abcdchk, tfchk, tf, ss, zpk, print.tf, print.ss, print.zpk, tf2ss, ss2tf, tf2zp, zp2tf, ss2zp, zp2ss, tfdata, ssdata, zpkdata, c2d, ltitr, lsim, gensig`
+Functions Available at this Phase: `nargchk, abcdchk, tfchk, tf, ss, zpk, print.tf, print.ss, print.zpk, tf2ss, ss2tf, tf2zp, zp2tf, ss2zp, zp2ss, tfdata, ssdata, zpkdata, c2d, ltitr, lsim, gensig`
 
 | Date   |  Task/Function     | Documentation | Finished | Tests |
 |--------|--------------------|---------------|----------|-------|
@@ -47,11 +47,13 @@ Achieved Sub-total: 23 functions
 
 ### CODING PHASE 2: July 3 – July 28
 
+Functions Available at this Phase:  `+ , - , *, /, ^, polysub, TF`
+
 | Date   |  Task/Function     | Documentation | Finished | Tests |
 |--------|--------------------|---------------|----------|-------|
 | [Week 6](project_reports/week6.md) |                    |               |          |       |
 | [July 3](project_reports/week6.md#day-1---july-3) | [TF()](https://github.com/benubah/control/blob/master/R/TransferFunction.R)           |               |          |       |
-| [July 4]project_reports/week6.md#day-2---july-4) | [TF()](https://github.com/benubah/control/blob/master/R/TransferFunction.R)           |               |          |       |
+| [July 4](project_reports/week6.md#day-2---july-4) | [TF()](https://github.com/benubah/control/blob/master/R/TransferFunction.R)           |               |          |       |
 | July 5 | givens()          |               |          |       |
 | July 6 | schord()          |               |          |       |
 | July 7 | Review code        |               |          |       |
