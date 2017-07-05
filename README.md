@@ -54,11 +54,11 @@ Functions Available at this Phase:  `+ , - , *, /, ^, polysub, TF`
 | [Week 6](project_reports/week6.md) |                    |               |          |       |
 | [July 3](project_reports/week6.md#day-1---july-3) | [TF()](https://github.com/benubah/control/blob/master/R/TransferFunction.R)           |               |          |       |
 | [July 4](project_reports/week6.md#day-2---july-4) | [TF()](https://github.com/benubah/control/blob/master/R/TransferFunction.R)           |               |          |       |
-| July 5 | givens()          |               |          |       |
-| July 6 | schord()          |               |          |       |
+| July 5 | [givens()](https://github.com/benubah/control/blob/master/R/givens.R)          |               |          |       |
+| July 6 | [ordschur()](https://github.com/benubah/control/blob/master/R/ordschur.R)         |               |          |       |
 | July 7 | Review code        |               |          |       |
 | [Week 7](project_reports/week7.md) |                    |               |          |       |
-| July 10 | care()           |               |          |       |
+| July 10 | [care()](https://github.com/benubah/control/blob/master/R/care.R)           |               |          |       |
 | July 11 | append()           |               |          |       |
 | July 12 | cloop()          |               |          |       |
 | July 13 | ssselect()          |               |          |       |
