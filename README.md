@@ -47,7 +47,7 @@ Achieved Sub-total: 23 functions
 
 ### CODING PHASE 2: July 3 – July 28
 
-Functions Available at this Phase:  `+ , - , *, /, ^, polysub, TF`
+Functions Available at this Phase:  `+ , - , *, /, ^, polysub, TF, givens_rot, ordschur, care, sysgroup, append`
 
 | Date   |  Task/Function     | Documentation | Finished | Tests |
 |--------|--------------------|---------------|----------|-------|
@@ -59,7 +59,7 @@ Functions Available at this Phase:  `+ , - , *, /, ^, polysub, TF`
 | July 7 | Review code        |               |          |       |
 | [Week 7](project_reports/week7.md) |                    |               |          |       |
 | [July 10](project_reports/week7.md#day-1---july-10) | [care()](https://github.com/benubah/control/blob/master/R/care.R)           |               |          |       |
-| July 11 | append()           |               |          |       |
+| [July 11](project_reports/week7.md#day-2---july-11) | [sysgroup(), append()](https://github.com/benubah/control/blob/master/R/append.R)           |               |          |       |
 | July 12 | cloop()          |               |          |       |
 | July 13 | ssselect()          |               |          |       |
 | July 14 | Review code        |               |          |       |
