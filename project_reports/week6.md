@@ -28,20 +28,21 @@ It is now possible to evaluate transfer functions as shown in the examples below
 
 Achievements:
 
-
+Continued Testing `TF()`
 
 
 ## Day 3 - July 5
 
 Achievements:
 
-
+Coded `givens`
 
 
 ## Day 4 - July 6
 
 Achievements:
 
+Coded `ordschur`
 
 
 ## Day 5 - July 7
