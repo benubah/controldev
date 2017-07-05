@@ -49,6 +49,8 @@ Coded `ordschur`
 
 Achievements:
 
+Updated `abcdchk` to also receive single state-space `sys` input in the following way:
 
+`abcdchk(sys1)`
 
 
