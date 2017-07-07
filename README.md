@@ -60,7 +60,7 @@ Functions Available at this Phase:  `+ , - , *, /, ^, polysub, TF, givens_rot, o
 | [Week 7](project_reports/week7.md) |                    |               |          |       |
 | [July 10](project_reports/week7.md#day-1---july-10) | [care()](https://github.com/benubah/control/blob/master/R/care.R)           |               |          |       |
 | [July 11](project_reports/week7.md#day-2---july-11) | [sysgroup(), append()](https://github.com/benubah/control/blob/master/R/append.R)           |               |          |       |
-| July 12 | cloop()          |               |          |       |
+| [July 12](project_reports/week7.md#day-3---july-12) | [cloop()](https://github.com/benubah/control/blob/master/R/cloop.R)          |               |          |       |
 | July 13 | ssselect()          |               |          |       |
 | July 14 | Review code        |               |          |       |
 | [Week 8](project_reports/week8.md) |                    |               |          |       |
