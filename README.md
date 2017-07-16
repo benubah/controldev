@@ -47,7 +47,7 @@ Achieved Sub-total: 23 functions
 
 ### CODING PHASE 2: July 3 – July 28
 
-Functions Available at this Phase:  `+ , - , *, /, ^, polysub, TF, givens_rot, ordschur, care, sysgroup, append, cloop`
+Functions Available at this Phase:  `+ , - , *, /, ^, polysub, TF, givens_rot, ordschur, care, sysgroup, append, cloop, selectsys`
 
 Tests available at this Phase: `test_tf, test_ss, test_zpk, test_tf2ss, test_ss2tf, test_tf2zp, test_ss2zp,test_ltitr, test_care`
 
@@ -63,8 +63,8 @@ Tests available at this Phase: `test_tf, test_ss, test_zpk, test_tf2ss, test_ss2
 | [July 10](project_reports/week7.md#day-1---july-10) | [care()](https://github.com/benubah/control/blob/master/R/care.R)           |               |          |       |
 | [July 11](project_reports/week7.md#day-2---july-11) | [sysgroup(), append()](https://github.com/benubah/control/blob/master/R/append.R)           |               |          |       |
 | [July 12](project_reports/week7.md#day-3---july-12) | [cloop()](https://github.com/benubah/control/blob/master/R/cloop.R)          |               |          |       |
-| July 13 | ssselect()          |               |          |       |
-| July 14 | Review code        |               |          |       |
+| [July 13](project_reports/week7.md#day-4---july-13) | [selectsys()](https://github.com/benubah/control/blob/master/R/selectsys.R)          |               |          |       |
+| [July 14](project_reports/week7.md#day-5---july-14) | Review code        |               |          |       |
 | [Week 8](project_reports/week8.md) |                    |               |          |       |
 | July 17 | ssdelete()           |               |          |       |
 | July 18 | series()           |               |          |       |
