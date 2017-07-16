@@ -36,12 +36,18 @@ Coded `cloop`
 
 Achievements:
 
+Coded `selectsys` to extract a subsystem from a state-space system.
+
+Usage is:
+
+`selectsys(sys, inputs, outputs)`
 
 
 ## Day 5 - July 14
 
 Achievements:
 
+General reviews
 
 
 
