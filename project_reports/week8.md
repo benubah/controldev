@@ -2,6 +2,11 @@
 
 Achievements:
 
+Coded `removesys`, an equivalent of `ssdelete` in Rlabplus.
+
+The function removes an input, output pair from a state-space system.
+
+Usage: `removesys(sys1, 1, 2)
 
 
 
