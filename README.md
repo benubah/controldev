@@ -66,7 +66,7 @@ Tests available at this Phase: `test_tf, test_ss, test_zpk, test_tf2ss, test_ss2
 | [July 13](project_reports/week7.md#day-4---july-13) | [selectsys()](https://github.com/benubah/control/blob/master/R/selectsys.R)          |               |          |       |
 | [July 14](project_reports/week7.md#day-5---july-14) | Review code        |               |          |       |
 | [Week 8](project_reports/week8.md) |                    |               |          |       |
-| July 17 | ssdelete()           |               |          |       |
+| [July 17](project_reports/week8.md#day-1---july-17) | [removesys()](https://github.com/benubah/control/blob/master/R/removesys.R)           |               |          |       |
 | July 18 | series()           |               |          |       |
 | July 19 | parallel()          |               |          |       |
 | July 20 | feedback()          |               |          |       |
