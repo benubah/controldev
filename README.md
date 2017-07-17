@@ -47,7 +47,7 @@ Achieved Sub-total: 23 functions
 
 ### CODING PHASE 2: July 3 – July 28
 
-Functions Available at this Phase:  `+ , - , *, /, ^, polysub, TF, givens_rot, ordschur, care, sysgroup, append, cloop, selectsys`
+Functions Available at this Phase:  `+ , - , *, /, ^, polysub, TF, givens_rot, ordschur, care, sysgroup, append, cloop, selectsys, removesys, series`
 
 Tests available at this Phase: `test_tf, test_ss, test_zpk, test_tf2ss, test_ss2tf, test_tf2zp, test_ss2zp,test_ltitr, test_care`
 
@@ -67,7 +67,7 @@ Tests available at this Phase: `test_tf, test_ss, test_zpk, test_tf2ss, test_ss2
 | [July 14](project_reports/week7.md#day-5---july-14) | Review code        |               |          |       |
 | [Week 8](project_reports/week8.md) |                    |               |          |       |
 | [July 17](project_reports/week8.md#day-1---july-17) | [removesys()](https://github.com/benubah/control/blob/master/R/removesys.R)           |               |          |       |
-| July 18 | series()           |               |          |       |
+| [July 18](project_reports/week8.md#day-2---july-18) | [series()](https://github.com/benubah/control/blob/master/R/series.R)           |               |          |       |
 | July 19 | parallel()          |               |          |       |
 | July 20 | feedback()          |               |          |       |
 | July 21 | Review code        |               |          |       |
