@@ -23,7 +23,7 @@ Usage: `series(sys1, sys2)`
 
 Achievements:
 
-Coded `aprallel` for connecting two systems in parallel.
+Coded `parallel` for connecting two systems in parallel.
 
 Usage: `parallel(sys1, sys2)`
 
