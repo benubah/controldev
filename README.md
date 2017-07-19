@@ -47,7 +47,7 @@ Achieved Sub-total: 23 functions
 
 ### CODING PHASE 2: July 3 – July 28
 
-Functions Available at this Phase:  `+ , - , *, /, ^, polysub, TF, givens_rot, ordschur, care, sysgroup, append, cloop, selectsys, removesys, series`
+Functions Available at this Phase:  `+ , - , *, /, ^, polysub, TF, givens_rot, ordschur, care, sysgroup, append, cloop, selectsys, removesys, series, parallel, fdbcksys, feedback, pid`
 
 Tests available at this Phase: `test_tf, test_ss, test_zpk, test_tf2ss, test_ss2tf, test_tf2zp, test_ss2zp,test_ltitr, test_care`
 
