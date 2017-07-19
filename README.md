@@ -69,7 +69,7 @@ Tests available at this Phase: `test_tf, test_ss, test_zpk, test_tf2ss, test_ss2
 | [July 17](project_reports/week8.md#day-1---july-17) | [removesys()](https://github.com/benubah/control/blob/master/R/removesys.R)           |               |          |       |
 | [July 18](project_reports/week8.md#day-2---july-18) | [series()](https://github.com/benubah/control/blob/master/R/series.R)           |               |          |       |
 | [July 19](project_reports/week8.md#day-3---july-19) | [parallel()](https://github.com/benubah/control/blob/master/R/parallel.R)          |               |          |       |
-| July 20 | feedback()          |               |          |       |
+| [July 20](project_reports/week8.md#day-4---july-20) | [feedback()](https://github.com/benubah/control/blob/master/R/feedback.R)          |               |          |       |
 | July 21 | Review code        |               |          |       |
 | [Week 9](project_reports/week9.md) |                    |               |          |       |
 | July 24 | Evaluations/CRAN           |               |          |       |
@@ -111,7 +111,7 @@ Achieved Sub-total:
 | Aug. 21 | lyap2()           |               |          |       |
 | Aug. 22 | crtb(), obsv()           |               |          |       |
 | Aug. 23 | esort(), damp()          |               |          |       |
-| Aug. 24 | c2dt(), pid()          |               |          |       |
+| Aug. 24 | c2dt(), [pid()](https://github.com/benubah/control/blob/master/R/pid.R)          |               |          |       |
 | Aug. 25 | Review code        |               |          |       |
 
 August 28 - Sept. 5: Final Evaluations and CRAN Submission 
