@@ -37,12 +37,19 @@ Coded `fdbcksys` and `feedback` for handling feedback system connections. The `f
 Using the `feedback` function, the following calls are possible:
 
 ` C <- pid(350,300,50)
+
  P <- TF(" 1/(s^2 + 10* s + 20)")
+ 
  feedback(C, P)
+ 
  feedback(P, 1)
+ 
  feedback(P, P,-1)
+ 
  feedback(P, P)
+ 
  feedback(1, P)
+ 
  feedback(TF("C*P")`
 
 
