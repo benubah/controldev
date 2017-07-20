@@ -47,7 +47,7 @@ Achieved Sub-total: 23 functions
 
 ### CODING PHASE 2: July 3 – July 28
 
-Functions Available at this Phase:  `+ , - , *, /, ^, polysub, TF, givens_rot, ordschur, care, sysgroup, append, cloop, selectsys, removesys, series, parallel, fdbcksys, feedback, pid`
+Functions Available at this Phase:  `+ , - , *, /, ^, polysub, TF, givens_rot, ordschur, care, sysgroup, append, cloop, selectsys, removesys, series, parallel, fdbcksys, feedback, pid, connect`
 
 Tests available at this Phase: `test_tf, test_ss, test_zpk, test_tf2ss, test_ss2tf, test_tf2zp, test_ss2zp,test_ltitr, test_care`
 
@@ -73,9 +73,9 @@ Tests available at this Phase: `test_tf, test_ss, test_zpk, test_tf2ss, test_ss2
 | July 21 | Review code        |               |          |       |
 | [Week 9](project_reports/week9.md) |                    |               |          |       |
 | July 24 | Evaluations/CRAN           |               |          |       |
-| July 25 | polyvalm()           |               |          |       |
+| [July 25](project_reports/week9.md#day-2---july-25) | [connect()](https://github.com/benubah/control/blob/master/R/connect.R)            |               |          |       |
 | July 26 | poles()          |               |          |       |
-| July 27 | acker()          |               |          |       |
+| July 27 | polyvalm(), acker()          |               |          |       |
 | July 28 | Review code        |               |          |       |
 
 
