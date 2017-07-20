@@ -54,8 +54,8 @@ Tests available at this Phase: `test_tf, test_ss, test_zpk, test_tf2ss, test_ss2
 | Date   |  Task/Function     | Documentation | Finished | Tests |
 |--------|--------------------|---------------|----------|-------|
 | [Week 6](project_reports/week6.md) |                    |               |          |       |
-| [July 3](project_reports/week6.md#day-1---july-3) | [`+ , - , *, /, ^, TF()`](https://github.com/benubah/control/blob/master/R/TransferFunction.R)           |               |          |       |
-| [July 4](project_reports/week6.md#day-2---july-4) | [polysub(), TF()](https://github.com/benubah/control/blob/master/R/TransferFunction.R)           |               |          |       |
+| [July 3](project_reports/week6.md#day-1---july-3) | [`+ , - , *, /, ^, TF()`](https://github.com/benubah/control/blob/master/R/TransferFunction.R)           |        Yes       |     Yes     |       |
+| [July 4](project_reports/week6.md#day-2---july-4) | [polysub(), TF()](https://github.com/benubah/control/blob/master/R/TransferFunction.R)           |         Yes      |   Yes       |       |
 | [July 5](project_reports/week6.md#day-2---july-5) | [givens_rot()](https://github.com/benubah/control/blob/master/R/givens.R)          |               |          |       |
 | [July 6](project_reports/week6.md#day-4---july-6) | [ordschur()](https://github.com/benubah/control/blob/master/R/ordschur.R)         |               |          |       |
 | July 7 | Review code        |               |          |       |
