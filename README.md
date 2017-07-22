@@ -47,7 +47,7 @@ Achieved Sub-total: 23 functions
 
 ### CODING PHASE 2: July 3 – July 28
 
-Functions Available at this Phase:  `+ , - , *, /, ^, polysub, TF, givens_rot, ordschur, care, sysgroup, append, cloop, selectsys, removesys, series, parallel, fdbcksys, feedback, pid, connect`
+Functions Available at this Phase:  `+ , - , *, /, ^, polysub, TF, givens_rot, ordschur, care, sysgroup, append, cloop, selectsys, removesys, series, parallel, fdbcksys, feedback, pid, connect, ctrb, polyvalm, acker, place, pole`
 
 Tests available at this Phase: `test_tf, test_ss, test_zpk, test_tf2ss, test_ss2tf, test_tf2zp, test_ss2zp,test_ltitr, test_care`
 
@@ -74,9 +74,9 @@ Tests available at this Phase: `test_tf, test_ss, test_zpk, test_tf2ss, test_ss2
 | [Week 9](project_reports/week9.md) |                    |               |          |       |
 | July 24 | Evaluations/CRAN           |               |          |       |
 | [July 25](project_reports/week9.md#day-2---july-25) | [connect()](https://github.com/benubah/control/blob/master/R/connect.R)            |               |          |       |
-| July 26 | poles()          |               |          |       |
-| July 27 | polyvalm(), acker()          |               |          |       |
-| July 28 | Review code        |               |          |       |
+| July 26 | [ctrb()](https://github.com/benubah/control/blob/master/R/ctrb.R), [poles()](https://github.com/benubah/control/blob/master/R/poles.R)          |               |          |       |
+| July 27 | [polyvalm()](https://github.com/benubah/control/blob/master/R/polyvalm.R), [acker()](https://github.com/benubah/control/blob/master/R/acker.R), [place()](https://github.com/benubah/control/blob/master/R/place.R)          |               |          |       |
+| July 28 |  Review code        |               |          |       |
 
 
 Expected Sub-total: 21 functions
