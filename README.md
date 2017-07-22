@@ -72,11 +72,11 @@ Tests available at this Phase: `test_tf, test_ss, test_zpk, test_tf2ss, test_ss2
 | [July 20](project_reports/week8.md#day-4---july-20) | [fdbcksys(), feedback()](https://github.com/benubah/control/blob/master/R/feedback.R)          |               |          |       |
 | July 21 | Review code        |               |          |       |
 | [Week 9](project_reports/week9.md) |                    |               |          |       |
-| July 24 | Evaluations/CRAN           |               |          |       |
+| July 24 | Evaluations          |               |          |       |
 | [July 25](project_reports/week9.md#day-2---july-25) | [connect()](https://github.com/benubah/control/blob/master/R/connect.R)            |               |          |       |
 | July 26 | [ctrb()](https://github.com/benubah/control/blob/master/R/ctrb.R), [poles()](https://github.com/benubah/control/blob/master/R/poles.R)          |               |          |       |
 | July 27 | [polyvalm()](https://github.com/benubah/control/blob/master/R/polyvalm.R), [acker()](https://github.com/benubah/control/blob/master/R/acker.R), [place()](https://github.com/benubah/control/blob/master/R/place.R)          |               |          |       |
-| July 28 |  Review code        |               |          |       |
+| July 28 |  Review code / CRAN       |               |          |       |
 
 
 Expected Sub-total: 21 functions
