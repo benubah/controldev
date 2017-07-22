@@ -81,7 +81,7 @@ Tests available at this Phase: `test_tf, test_ss, test_zpk, test_tf2ss, test_ss2
 
 Expected Sub-total: 21 functions
 
-Achieved Sub-total:
+Achieved Sub-total: 26 functions
 
 ------------------------------------------------------------------------------------------------------------------
 
