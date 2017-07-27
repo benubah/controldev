@@ -74,9 +74,9 @@ Tests available at this Phase: `test_tf, test_ss, test_zpk, test_tf2ss, test_ss2
 | [Week 9](project_reports/week9.md) |                    |               |          |       |
 | July 24 | Evaluations          |               |          |       |
 | [July 25](project_reports/week9.md#day-2---july-25) | [connect()](https://github.com/benubah/control/blob/master/R/connect.R)            |               |          |       |
-| July 26 | [ctrb()](https://github.com/benubah/control/blob/master/R/ctrb.R), [poles()](https://github.com/benubah/control/blob/master/R/poles.R)          |               |          |       |
-| July 27 | [polyvalm()](https://github.com/benubah/control/blob/master/R/polyvalm.R), [acker()](https://github.com/benubah/control/blob/master/R/acker.R), [place()](https://github.com/benubah/control/blob/master/R/place.R)          | Yes              |    Yes      |       |
-| July 28 |  Review code / CRAN       |               |          |       |
+| [July 26](project_reports/week9.md#day-3---july-26) | [ctrb()](https://github.com/benubah/control/blob/master/R/ctrb.R), [poles()](https://github.com/benubah/control/blob/master/R/poles.R)          |               |          |       |
+| [July 27](project_reports/week9.md#day-4---july-27) | [polyvalm()](https://github.com/benubah/control/blob/master/R/polyvalm.R), [acker()](https://github.com/benubah/control/blob/master/R/acker.R), [place()](https://github.com/benubah/control/blob/master/R/place.R)          | Yes              |    Yes      |       |
+| [July 28]() |  Review code / CRAN       |               |          |       |
 
 
 Expected Sub-total: 21 functions
