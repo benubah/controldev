@@ -67,7 +67,7 @@ Tests available at this Phase: `test_tf, test_ss, test_zpk, test_tf2ss, test_ss2
 | [July 14](project_reports/week7.md#day-5---july-14) | Review code        |               |          |       |
 | [Week 8](project_reports/week8.md) |                    |               |          |       |
 | [July 17](project_reports/week8.md#day-1---july-17) | [removesys()](https://github.com/benubah/control/blob/master/R/removesys.R)           |               |          |       |
-| [July 18](project_reports/week8.md#day-2---july-18) | [series()](https://github.com/benubah/control/blob/master/R/series.R)           |               |          |       |
+| [July 18](project_reports/week8.md#day-2---july-18) | [series()](https://github.com/benubah/control/blob/master/R/series.R)           |   Yes            |   Yes       |       |
 | [July 19](project_reports/week8.md#day-3---july-19) | [parallel()](https://github.com/benubah/control/blob/master/R/parallel.R)          |               |          |       |
 | [July 20](project_reports/week8.md#day-4---july-20) | [fdbcksys(), feedback()](https://github.com/benubah/control/blob/master/R/feedback.R)          |               |          |       |
 | July 21 | Review code        |               |          |       |
