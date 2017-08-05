@@ -87,6 +87,9 @@ Achieved Sub-total: 26 functions
 
 ### CODING PHASE 3: July 31 – August 28
 
+Functions Available at this Phase:  `lsimplot, step, stepplot, initial, initialplot, impulse, impulseplot, freqresp, bode, bodeplot,
+nyquist, nyquistplot, lqr, obsv, esort`
+
 | Date   |  Task/Function     | Documentation | Finished | Tests |
 |--------|--------------------|---------------|----------|-------|
 | [Week 10](project_reports/week10.md) |                    |               |          |       |
