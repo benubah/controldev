@@ -87,7 +87,7 @@ Achieved Sub-total: 26 functions
 
 ### CODING PHASE 3: July 31 – August 28
 
-Functions Available at this Phase:  `lsimplot, step, stepplot, initial, initialplot, impulse, impulseplot, ramp, rampplot, freqresp, bode, bodeplot, nyquist, nyquistplot, lqr, obsv, esort, issiso, ismimo,`
+Functions Available at this Phase:  `lsimplot, step, stepplot, initial, initialplot, impulse, impulseplot, ramp, rampplot, freqresp, bode, bodeplot, nyquist, nyquistplot, lqr, obsv, esort, issiso, ismimo, ode2ss`
 
 | Date   |  Task/Function     | Documentation | Finished | Tests |
 |--------|--------------------|---------------|----------|-------|
@@ -98,16 +98,16 @@ Functions Available at this Phase:  `lsimplot, step, stepplot, initial, initialp
 | Aug. 3 | stepplot()          |               |          |       |
 | Aug. 4 | Review code        |               |          |       |
 | [Week 11](project_reports/week11.md) |                    |               |          |       |
-| Aug. 7 | initial()           |               |          |       |
-| Aug. 8 | impulse()           |               |          |       |
+| Aug. 7 | initial(), issiso()          |               |          |       |
+| Aug. 8 | impulse(), ismimo()          |               |          |       |
 | Aug. 9 | initialplot(), impulseplot()          |               |          |       |
 | Aug. 10 | freqresp()          |               |          |       |
 | Aug. 11 | Review code        |               |          |       |
 | [Week 12](project_reports/week12.md) |                    |               |          |       |
-| Aug. 14 | bode()           |               |          |       |
-| Aug. 15 | nyquist()           |               |          |       |
-| Aug. 16 | bodeplot(), nyquistplot()          |               |          |       |
-| Aug. 17 | lqr()          |               |          |       |
+| Aug. 14 | bode(), bodeplot()           |               |          |       |
+| Aug. 15 | nyquist(), nyquistplot()           |               |          |       |
+| Aug. 16 | ramp(), rampplot()          |               |          |       |
+| Aug. 17 | lqr(), ode2ss()          |               |          |       |
 | Aug. 18 | Review code        |               |          |       |
 | [Week 13](project_reports/week13.md) |                    |               |          |       |
 | Aug. 21 | lyap2()           |               |          |       |
