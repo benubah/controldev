@@ -93,21 +93,21 @@ Functions Available at this Phase:  `lsimplot, step, stepplot, initial, initialp
 |--------|--------------------|---------------|----------|-------|
 | [Week 10](project_reports/week10.md) |                    |               |          |       |
 | July 31 | [gensig()](https://github.com/benubah/control/blob/master/R/gensig.R)           |               |          |       |
-| Aug. 1 | lsimplot()           |               |          |       |
-| Aug. 2 | step()          |               |          |       |
-| Aug. 3 | stepplot()          |               |          |       |
+| Aug. 1 | [lsimplot()](https://github.com/benubah/control/blob/master/R/lsimplot.R)           |               |          |       |
+| Aug. 2 | [step()](https://github.com/benubah/control/blob/master/R/step.R)          |               |          |       |
+| Aug. 3 | [stepplot()](https://github.com/benubah/control/blob/master/R/stepplot.R)          |               |          |       |
 | Aug. 4 | Review code        |               |          |       |
 | [Week 11](project_reports/week11.md) |                    |               |          |       |
-| Aug. 7 | initial(), issiso()          |               |          |       |
-| Aug. 8 | impulse(), ismimo()          |               |          |       |
-| Aug. 9 | initialplot(), impulseplot()          |               |          |       |
-| Aug. 10 | freqresp()          |               |          |       |
+| Aug. 7 | [initial()](https://github.com/benubah/control/blob/master/R/initial.R), [issiso()](https://github.com/benubah/control/blob/master/R/issiso.R)          |               |          |       |
+| Aug. 8 | [impulse(https://github.com/benubah/control/blob/master/R/impulse.R)](), [ismimo()](https://github.com/benubah/control/blob/master/R/issiso.R)          |               |          |       |
+| Aug. 9 | [initialplot(https://github.com/benubah/control/blob/master/R/initialplot.R)](), [impulseplot()](https://github.com/benubah/control/blob/master/R/impulseplot.R)          |               |          |       |
+| Aug. 10 | [freqresp()](https://github.com/benubah/control/blob/master/R/freqresp.R)          |               |          |       |
 | Aug. 11 | Review code        |               |          |       |
 | [Week 12](project_reports/week12.md) |                    |               |          |       |
-| Aug. 14 | bode(), bodeplot()           |               |          |       |
-| Aug. 15 | nyquist(), nyquistplot()           |               |          |       |
-| Aug. 16 | ramp(), rampplot()          |               |          |       |
-| Aug. 17 | lqr(), ode2ss()          |               |          |       |
+| Aug. 14 | [bode()](https://github.com/benubah/control/blob/master/R/bode.R), [bodeplot()](https://github.com/benubah/control/blob/master/R/bodeplot.R)           |               |          |       |
+| Aug. 15 | [nyquist()](https://github.com/benubah/control/blob/master/R/nyquist.R), [nyquistplot()](https://github.com/benubah/control/blob/master/R/nyquistplot.R)           |               |          |       |
+| Aug. 16 | [ramp()](https://github.com/benubah/control/blob/master/R/ramp.R), [rampplot()](https://github.com/benubah/control/blob/master/R/rampplot.R)          |               |          |       |
+| Aug. 17 | [lqr()](https://github.com/benubah/control/blob/master/R/lqr.R), [ode2ss()](https://github.com/benubah/control/blob/master/R/ode2ss.R)          |               |          |       |
 | Aug. 18 | Review code        |               |          |       |
 | [Week 13](project_reports/week13.md) |                    |               |          |       |
 | Aug. 21 | lyap2()           |               |          |       |
