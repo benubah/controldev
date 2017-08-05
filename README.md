@@ -111,8 +111,8 @@ Functions Available at this Phase:  `lsimplot, step, stepplot, initial, initialp
 | Aug. 18 | Review code        |               |          |       |
 | [Week 13](project_reports/week13.md) |                    |               |          |       |
 | Aug. 21 | lyap2()           |               |          |       |
-| Aug. 22 | crtb(), obsv()           |               |          |       |
-| Aug. 23 | esort(), damp()          |               |          |       |
+| Aug. 22 | [crtb()](https://github.com/benubah/control/blob/master/R/ctrb.R), [obsv()](https://github.com/benubah/control/blob/master/R/obsv.R)           |               |          |       |
+| Aug. 23 | [esort()](https://github.com/benubah/control/blob/master/R/esort.R), damp()          |               |          |       |
 | Aug. 24 | c2dt(), [pid()](https://github.com/benubah/control/blob/master/R/pid.R)          |               |          |       |
 | Aug. 25 | Review code        |               |          |       |
 
