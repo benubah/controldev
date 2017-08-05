@@ -99,8 +99,8 @@ Functions Available at this Phase:  `lsimplot, step, stepplot, initial, initialp
 | Aug. 4 | Review code        |               |          |       |
 | [Week 11](project_reports/week11.md) |                    |               |          |       |
 | Aug. 7 | [initial()](https://github.com/benubah/control/blob/master/R/initial.R), [issiso()](https://github.com/benubah/control/blob/master/R/issiso.R)          |               |          |       |
-| Aug. 8 | [impulse(https://github.com/benubah/control/blob/master/R/impulse.R)](), [ismimo()](https://github.com/benubah/control/blob/master/R/issiso.R)          |               |          |       |
-| Aug. 9 | [initialplot(https://github.com/benubah/control/blob/master/R/initialplot.R)](), [impulseplot()](https://github.com/benubah/control/blob/master/R/impulseplot.R)          |               |          |       |
+| Aug. 8 | [impulse()](https://github.com/benubah/control/blob/master/R/impulse.R), [ismimo()](https://github.com/benubah/control/blob/master/R/issiso.R)          |               |          |       |
+| Aug. 9 | [initialplot()](https://github.com/benubah/control/blob/master/R/initialplot.R), [impulseplot()](https://github.com/benubah/control/blob/master/R/impulseplot.R)          |               |          |       |
 | Aug. 10 | [freqresp()](https://github.com/benubah/control/blob/master/R/freqresp.R)          |               |          |       |
 | Aug. 11 | Review code        |               |          |       |
 | [Week 12](project_reports/week12.md) |                    |               |          |       |
