@@ -87,7 +87,7 @@ Achieved Sub-total: 26 functions
 
 ### CODING PHASE 3: July 31 – August 28
 
-Functions Available at this Phase:  `lsimplot, step, stepplot, initial, initialplot, impulse, impulseplot, ramp, rampplot, ltifr, freqresp, bode, bodeplot, nyquist, nyquistplot, lqr, obsv, esort, issiso, ismimo, ode2ss`
+Functions Available at this Phase:  `lsimplot, step, stepplot, initial, initialplot, impulse, impulseplot, ramp, rampplot, ltifr, freqresp, bode, bodeplot, nyquist, nyquistplot, lqr, obsv, esort, damp issiso, ismimo, ode2ss`
 
 | Date   |  Task/Function     | Documentation | Finished | Tests |
 |--------|--------------------|---------------|----------|-------|
@@ -112,7 +112,7 @@ Functions Available at this Phase:  `lsimplot, step, stepplot, initial, initialp
 | [Week 13](project_reports/week13.md) |                    |               |          |       |
 | Aug. 21 | lyap2()           |               |          |       |
 | Aug. 22 | [crtb()](https://github.com/benubah/control/blob/master/R/ctrb.R), [obsv()](https://github.com/benubah/control/blob/master/R/obsv.R)           |               |          |       |
-| Aug. 23 | [esort()](https://github.com/benubah/control/blob/master/R/esort.R), damp()          |               |          |       |
+| Aug. 23 | [esort()](https://github.com/benubah/control/blob/master/R/esort.R), [damp()](https://github.com/benubah/control/blob/master/R/damp.R)          |               |          |       |
 | Aug. 24 | c2dt(), [pid()](https://github.com/benubah/control/blob/master/R/pid.R)          |               |          |       |
 | Aug. 25 | Review code        |               |          |       |
 
