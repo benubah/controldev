@@ -29,7 +29,7 @@ Coded `initialplot()` - plot system's initial response
 
 Achievements:
 
-Coded `freqresp()` - to obtain the frequency response of a system of transfer-function, state-space or zero-pole model
+Coded `ltifr(), freqresp()` - to obtain the frequency response of a system of transfer-function, state-space or zero-pole model
 
 `freqresp()` uses `freqs()` from the `signal` package to obtain frequency response of transfer function models only.
 
