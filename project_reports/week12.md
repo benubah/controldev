@@ -2,7 +2,8 @@
 
 Achievements:
 
-
+Coded `dcgain` to Computes the steady-state gain (or low frequency gain) of a continuous
+system.
 
 
 ## Day 2 - Aug. 15
