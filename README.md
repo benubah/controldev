@@ -110,10 +110,10 @@ Functions Available at this Phase:  `lsimplot, step, stepplot, initial, initialp
 | Aug. 17 | [lqr()](https://github.com/benubah/control/blob/master/R/lqr.R), [ode2ss()](https://github.com/benubah/control/blob/master/R/ode2ss.R)          |               |          |       |
 | Aug. 18 | Review code        |               |          |       |
 | [Week 13](project_reports/week13.md) |                    |               |          |       |
-| Aug. 21 | lyap2()           |               |          |       |
+| Aug. 21 |  [dcgain()](https://github.com/benubah/control/blob/master/R/dcgain.R), [pid()](https://github.com/benubah/control/blob/master/R/pid.R)          |               |          |       |
 | Aug. 22 | [crtb()](https://github.com/benubah/control/blob/master/R/ctrb.R), [obsv()](https://github.com/benubah/control/blob/master/R/obsv.R)           |               |          |       |
 | Aug. 23 | [esort()](https://github.com/benubah/control/blob/master/R/esort.R), [damp()](https://github.com/benubah/control/blob/master/R/damp.R)          |               |          |       |
-| Aug. 24 | c2dt(), [pid()](https://github.com/benubah/control/blob/master/R/pid.R)          |               |          |       |
+| Aug. 24 | lyap2(), c2dt()          |               |          |       |
 | Aug. 25 | Review code        |               |          |       |
 
 August 28 - Sept. 5: Final Evaluations and CRAN Submission 
