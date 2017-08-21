@@ -14,13 +14,14 @@ When the system is a transfer function, `bode` uses the `signal` package to obta
 
 Achievements:
 
-
+Coded `nyquist(), nyquistplot()` 
 
 
 ## Day 3 - Aug. 16
 
 Achievements:
 
+Coded `ramp(), rampplot()` to obtain the ramp response of a system
 
 
 
@@ -28,6 +29,7 @@ Achievements:
 
 Achievements:
 
+Coded `lqr(), ode2ss()`
 
 
 ## Day 5 - Aug. 18
