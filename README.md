@@ -98,9 +98,9 @@ Functions Available at this Phase:  `lsimplot, step, stepplot, initial, initialp
 | [Aug. 3](project_reports/week10.md#day-4---aug-3) | [stepplot()](https://github.com/benubah/control/blob/master/R/stepplot.R)          |        Yes       |      Yes    |       |
 | Aug. 4 | Review code        |               |          |       |
 | [Week 11](project_reports/week11.md) |                    |               |          |       |
-| Aug. 7 | [initial()](https://github.com/benubah/control/blob/master/R/initial.R), [issiso()](https://github.com/benubah/control/blob/master/R/issiso.R)          |               |          |       |
-| Aug. 8 | [impulse()](https://github.com/benubah/control/blob/master/R/impulse.R), [ismimo()](https://github.com/benubah/control/blob/master/R/issiso.R)          |               |          |       |
-| Aug. 9 | [initialplot()](https://github.com/benubah/control/blob/master/R/initialplot.R), [impulseplot()](https://github.com/benubah/control/blob/master/R/impulseplot.R)          |               |          |       |
+| Aug. 7 | [initial()](https://github.com/benubah/control/blob/master/R/initial.R), [issiso()](https://github.com/benubah/control/blob/master/R/issiso.R)          |     Yes          |  Yes        |       |
+| Aug. 8 | [impulse()](https://github.com/benubah/control/blob/master/R/impulse.R), [ismimo()](https://github.com/benubah/control/blob/master/R/issiso.R)          |   Yes            |    Yes      |       |
+| Aug. 9 | [initialplot()](https://github.com/benubah/control/blob/master/R/initialplot.R), [impulseplot()](https://github.com/benubah/control/blob/master/R/impulseplot.R)          |      Yes         |    Yes      |       |
 | Aug. 10 | [freqresp(), ltifr()](https://github.com/benubah/control/blob/master/R/freqresp.R)          |               |          |       |
 | Aug. 11 | Review code        |               |          |       |
 | [Week 12](project_reports/week12.md) |                    |               |          |       |
@@ -111,7 +111,7 @@ Functions Available at this Phase:  `lsimplot, step, stepplot, initial, initialp
 | Aug. 18 | Review code        |               |          |       |
 | [Week 13](project_reports/week13.md) |                    |               |          |       |
 | Aug. 21 |  [dcgain()](https://github.com/benubah/control/blob/master/R/dcgain.R), [pid()](https://github.com/benubah/control/blob/master/R/pid.R)          |               |          |       |
-| Aug. 22 | [crtb()](https://github.com/benubah/control/blob/master/R/ctrb.R), [obsv()](https://github.com/benubah/control/blob/master/R/obsv.R)           |               |          |       |
+| Aug. 22 | [crtb()](https://github.com/benubah/control/blob/master/R/ctrb.R), [obsv()](https://github.com/benubah/control/blob/master/R/obsv.R)           |     Yes          |      Yes    |       |
 | Aug. 23 | [esort()](https://github.com/benubah/control/blob/master/R/esort.R), [damp()](https://github.com/benubah/control/blob/master/R/damp.R)          |               |          |       |
 | Aug. 24 | lyap2(), c2dt()          |               |          |       |
 | Aug. 25 | Review code        |               |          |       |
