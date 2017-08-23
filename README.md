@@ -87,15 +87,15 @@ Achieved Sub-total: 26 functions
 
 ### CODING PHASE 3: July 31 – August 28
 
-Functions Available at this Phase:  `lsimplot, step, stepplot, initial, initialplot, impulse, impulseplot, ramp, rampplot, ltifr, freqresp, bode, bodeplot, nyquist, nyquistplot, lqr, obsv, esort, damp issiso, ismimo, ode2ss`
+Functions Available at this Phase:  `lsimplot, step, stepplot, initial, initialplot, impulse, impulseplot, ramp, rampplot, ltifr, freqresp, bode, bodeplot, nyquist, nyquistplot, lqr, obsv, esort, damp issiso, ismimo, ode2ss, dcgain`
 
 | Date   |  Task/Function     | Documentation | Finished | Tests |
 |--------|--------------------|---------------|----------|-------|
 | [Week 10](project_reports/week10.md) |                    |               |          |       |
 | [July 31](project_reports/week10.md#day-1---july-31) | [gensig()](https://github.com/benubah/control/blob/master/R/gensig.R)           |               |          |       |
 | [Aug. 1](project_reports/week10.md#day-2---aug-1) | [lsimplot()](https://github.com/benubah/control/blob/master/R/lsimplot.R)           |               |          |       |
-| [Aug. 2](project_reports/week10.md#day-3---aug-2) | [step()](https://github.com/benubah/control/blob/master/R/step.R)          |               |          |       |
-| [Aug. 3](project_reports/week10.md#day-4---aug-3) | [stepplot()](https://github.com/benubah/control/blob/master/R/stepplot.R)          |               |          |       |
+| [Aug. 2](project_reports/week10.md#day-3---aug-2) | [step()](https://github.com/benubah/control/blob/master/R/step.R)          |               |       Yes   |   Yes    |
+| [Aug. 3](project_reports/week10.md#day-4---aug-3) | [stepplot()](https://github.com/benubah/control/blob/master/R/stepplot.R)          |        Yes       |      Yes    |       |
 | Aug. 4 | Review code        |               |          |       |
 | [Week 11](project_reports/week11.md) |                    |               |          |       |
 | Aug. 7 | [initial()](https://github.com/benubah/control/blob/master/R/initial.R), [issiso()](https://github.com/benubah/control/blob/master/R/issiso.R)          |               |          |       |
@@ -104,8 +104,8 @@ Functions Available at this Phase:  `lsimplot, step, stepplot, initial, initialp
 | Aug. 10 | [freqresp(), ltifr()](https://github.com/benubah/control/blob/master/R/freqresp.R)          |               |          |       |
 | Aug. 11 | Review code        |               |          |       |
 | [Week 12](project_reports/week12.md) |                    |               |          |       |
-| Aug. 14 | [bode()](https://github.com/benubah/control/blob/master/R/bode.R), [bodeplot()](https://github.com/benubah/control/blob/master/R/bodeplot.R)           |               |          |       |
-| Aug. 15 | [nyquist()](https://github.com/benubah/control/blob/master/R/nyquist.R), [nyquistplot()](https://github.com/benubah/control/blob/master/R/nyquistplot.R)           |               |          |       |
+| Aug. 14 | [bode()](https://github.com/benubah/control/blob/master/R/bode.R), [bodeplot()](https://github.com/benubah/control/blob/master/R/bodeplot.R)           |         Yes      |     Yes     |       |
+| Aug. 15 | [nyquist()](https://github.com/benubah/control/blob/master/R/nyquist.R), [nyquistplot()](https://github.com/benubah/control/blob/master/R/nyquistplot.R)           |    Yes           |   Yes       |       |
 | Aug. 16 | [ramp()](https://github.com/benubah/control/blob/master/R/ramp.R), [rampplot()](https://github.com/benubah/control/blob/master/R/rampplot.R)          |               |          |       |
 | Aug. 17 | [lqr()](https://github.com/benubah/control/blob/master/R/lqr.R), [ode2ss()](https://github.com/benubah/control/blob/master/R/ode2ss.R)          |               |          |       |
 | Aug. 18 | Review code        |               |          |       |
@@ -120,4 +120,4 @@ August 28 - Sept. 5: Final Evaluations and CRAN Submission
 
 Expected Sub-total: 21 functions
 
-Achieved Sub-total:
+Achieved Sub-total: 23 functions
