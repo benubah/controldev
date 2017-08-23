@@ -94,7 +94,7 @@ Functions Available at this Phase:  `lsimplot, step, stepplot, initial, initialp
 | [Week 10](project_reports/week10.md) |                    |               |          |       |
 | [July 31](project_reports/week10.md#day-1---july-31) | [gensig()](https://github.com/benubah/control/blob/master/R/gensig.R)           |               |          |       |
 | [Aug. 1](project_reports/week10.md#day-2---aug-1) | [lsimplot()](https://github.com/benubah/control/blob/master/R/lsimplot.R)           |               |          |       |
-| [Aug. 2](project_reports/week10.md#day-3---aug-2) | [step()](https://github.com/benubah/control/blob/master/R/step.R)          |               |       Yes   |   Yes    |
+| [Aug. 2](project_reports/week10.md#day-3---aug-2) | [step()](https://github.com/benubah/control/blob/master/R/step.R)          |  Yes               |       Yes   |      |
 | [Aug. 3](project_reports/week10.md#day-4---aug-3) | [stepplot()](https://github.com/benubah/control/blob/master/R/stepplot.R)          |        Yes       |      Yes    |       |
 | Aug. 4 | Review code        |               |          |       |
 | [Week 11](project_reports/week11.md) |                    |               |          |       |
