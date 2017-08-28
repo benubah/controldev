@@ -1,4 +1,4 @@
-## Control Package Project Plan
+## GSoC 2017: Control Package Project Plan/Deliverables
 
 The following is an outline of the plan for the development of the control package. Coding tasks have been arranged in an order of dependency. For example, the lsim() function to be coded at Week 4 depends on functions in Weeks 1, 2, 3 and 4.
 Coding involves porting or creating scripts, preliminary testing using examples to check correctness of results in comparison against existing tools
