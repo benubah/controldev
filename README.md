@@ -101,7 +101,7 @@ Functions Available at this Phase:  `lsimplot, step, stepplot, initial, initialp
 | Aug. 7 | [initial()](https://github.com/benubah/control/blob/master/R/initial.R), [issiso()](https://github.com/benubah/control/blob/master/R/issiso.R)          |     Yes          |  Yes        |       |
 | Aug. 8 | [impulse()](https://github.com/benubah/control/blob/master/R/impulse.R), [ismimo()](https://github.com/benubah/control/blob/master/R/issiso.R)          |   Yes            |    Yes      |       |
 | Aug. 9 | [initialplot()](https://github.com/benubah/control/blob/master/R/initialplot.R), [impulseplot()](https://github.com/benubah/control/blob/master/R/impulseplot.R)          |      Yes         |    Yes      |       |
-| Aug. 10 | [freqresp(), ltifr()](https://github.com/benubah/control/blob/master/R/freqresp.R)          |               |          |       |
+| Aug. 10 | [freqresp(), ltifr()](https://github.com/benubah/control/blob/master/R/freqresp.R)          | Yes              |   Yes       |       |
 | Aug. 11 | Review code        |               |          |       |
 | [Week 12](project_reports/week12.md) |                    |               |          |       |
 | Aug. 14 | [bode()](https://github.com/benubah/control/blob/master/R/bode.R), [bodeplot()](https://github.com/benubah/control/blob/master/R/bodeplot.R)           |         Yes      |     Yes     |       |
